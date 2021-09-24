@@ -1,5 +1,25 @@
-body {text-align: center; background-color: #ECBBF8; }
-.VerdeAqua {font-size: xx-large ; text-decoration: underline; background-color:#BFFBEF; font-family:sans-serif ;}
-#ColorAmarillito {background-color:#F9F5A3; font-family:monospace;}
-.ColorAzul {font-size: large ; color:#0349AB ;}
-.Empanadas {width: 600px ; height:350px ;  }
+body {background-color: #C0EEFB;
+       text-align: center;}
+header  {background-color: #D57EDD;
+        text-decoration: underline;
+         border: #130000 1px solid;
+         position: relative;
+         bottom: -20px;
+          top: 10px;
+           left: 15px;
+         right: 20px; }
+
+
+section {background-color: #81DBE0;
+  position: static;
+           width: 55%;
+         height: 100% ;}
+
+
+aside {background-color: #EBE262;
+  float: right;
+  position: relative;
+  width: 15%;
+  height: 15%;
+
+  }
