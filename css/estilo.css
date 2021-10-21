@@ -24,6 +24,18 @@ header  {background-color: #D57EDD;
          right: 20px; }
 
 
+@media (max-width: 575px) { body
+ {background-color: #FCF1B0;}
+}
+@media (max-width: 768px) {
+  img {width: 30vw;}
+}
+@media (max-width: 575px) {
+  img {position: relative;
+    width: 45vw; }
+}
+
+
 section {background-color: #81DBE0;
   font-family: "sitka" ;
   font-size: 1rem;
@@ -34,6 +46,10 @@ section {background-color: #81DBE0;
 
 .info {background-color: #DBFCB0 ; font-size: 1rem;}
 
+img { position: relative;
+  width: 45vw; }
+
+
 
 aside {background-color: #EBE262;
   font-size: 1rem;
@@ -41,5 +57,3 @@ aside {background-color: #EBE262;
   position: static;
   width: 50%;
   height: 100%;}
-  img { position: relative;
-    width: 45vw; }
