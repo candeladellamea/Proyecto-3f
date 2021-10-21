@@ -7,7 +7,7 @@ src: url("../fuentes/VLADIMIR.ttf");}
 @import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
 
 body  {text-align: center; background-color: #ECBBF8; }
-.Titulo {text-decoration: underline; background-color:#BFFBEF; font-family:"vladimir" ;}
+.Titulo {text-decoration: underline; background-color:#BFFBEF; font-family:"Arial" ;}
 .Subtitulo {color:#0349AB ; background: #B0FCE7; font-family: "freescpt";}
 .contactos {background-color: #FCB8B0 ;}
 #SubAmarillo {background-color: #FCF1B0 ; font-family: "Cedarville Cursive"cursive;}
@@ -35,6 +35,10 @@ header  {background-color: #D57EDD;
     width: 45vw; }
 }
 
+.elemento1 {background-color:#A6FD80; }
+.elemento2 {background-color: #FDD980;}
+.elemento3 {background-color: #FD80CF;}
+.elemento4 {background-color: #C8A8EA;}
 
 section {background-color: #81DBE0;
   font-family: "sitka" ;
